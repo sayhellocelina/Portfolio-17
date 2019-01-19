@@ -1,0 +1,28 @@
+/* main font */
+body {
+    font-family: 'Montserrat', sans-serif; 
+}
+
+/* jumbotron */
+.jumbotron {
+    position: relative;
+    background: rgb(0, 0, 0) url("images/gradient.jpg") top -10em center;
+    width: auto;
+    height: auto; 
+    background-size: 150%;
+    color: #000;
+
+}
+
+.jumbotron h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+}  
+
+/* footer social icons */
+
+.list-inline-item a {
+    color: #ffffff;
+    padding: 0.5em;
+    font-size: 1.5em;
+} 
